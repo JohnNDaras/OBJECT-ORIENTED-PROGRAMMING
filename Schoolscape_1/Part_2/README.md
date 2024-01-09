@@ -1,4 +1,4 @@
-**"Schoolscape: A C++ Simulation of Orderly Movement in Kindergarten Sections and Disorder Handling"**
+**Schoolscape: A C++ Simulation of Orderly Movement in Kindergarten Sections and Disorder Handling**
 
 
 Compilation:
