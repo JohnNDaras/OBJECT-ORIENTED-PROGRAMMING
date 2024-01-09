@@ -57,7 +57,7 @@ A school building is created. \
 Students and teachers are created. \
 Students enter, and teachers are placed in the school building in random order. \
 The school building operates for N hours. \
-The school building is printed. \
+The school building is printed. 
 
 The parameters Cclass, Lj, Ls, Lt, and N should be provided in that order from the command line.
 
