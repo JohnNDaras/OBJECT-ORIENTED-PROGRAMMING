@@ -1,5 +1,4 @@
-
-                                                |**Schoolscape: Modeling Student Arrival and Classroom Allocation in C++**|
+|**Schoolscape: Modeling Student Arrival and Classroom Allocation in C++**|
 
 
 Compilation:
