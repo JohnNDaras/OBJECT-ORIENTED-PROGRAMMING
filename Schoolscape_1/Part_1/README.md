@@ -1,4 +1,4 @@
-|**Schoolscape: Modeling Student Arrival and Classroom Allocation in C++**|
+**Schoolscape: Modeling Student Arrival and Classroom Allocation in C++**
 
 
 Compilation:
@@ -42,10 +42,10 @@ When a new teacher is created, they are initialized with their details and an in
 Implement the above through the appropriate classes, defining the data members needed and the functions/methods that implement the described behavior. Also, implement a main function in which:
 
   A school building is created.
-  Students and teachers are created.\\
+  Students and teachers are created. \
   The following process is repeated until either all students are in their classrooms or no other student can enter:
-  (a) Students enter the school building in random order.\\
-  (b) Randomly decide whether teachers are placed in their classrooms—if positive, the selection of teachers for placement is random again.    \\
+  (a) Students enter the school building in random order. \
+  (b) Randomly decide whether teachers are placed in their classrooms—if positive, the selection of teachers for placement is random again. \
   Print the school building.
 
 The values of Cclass, Cyard, Cstair, and Ccorr should be provided from the command line in that order.
