@@ -6,6 +6,7 @@ Compilation:
     make all
 
 Run: 
+
     ./sim2 number1 number2 (i.e. ./sim2 100 500)
 
 We implement in C++ a simulation of the movement of kindergarten students between sections. We consider that each section has the same number of boys and girls, unless it involves an odd number, in which case there is one more boy or one more girl. In this station, to avoid disorder, when the children of a section are about to move, they form a sequence of pairs. Assuming that girls are quieter than boys, the pairs are boy-girl. Additionally, the boy in the pair, in the corresponding position of the pairs in front and behind, has girls (and one girl, respectively). The sequence is characterized by the section number, e.g., an integer. It is initialized by placing the students of the section in the appropriate position.
@@ -28,6 +29,6 @@ It creates the sequence of sections. \
 It prints this sequence. \
 For L times, randomly select random students to create disorders. For each student, print their details, take the necessary actions, and print the sequences affected by these actions. \
 Finally, print the sequence of sections as it has been modified. \
-The parameters K and L, as well as the thresholds for the percentages, Tquiet and Tmessy, should be provided from the command line in that order. \
+The parameters K and L, as well as the thresholds for the percentages, Tquiet and Tmessy, should be provided from the command line in that order. 
 
 Note: In implementing the exercises of Group A, the only type of library types allowed to be used is the string type."
