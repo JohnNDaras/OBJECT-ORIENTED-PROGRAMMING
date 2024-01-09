@@ -43,7 +43,7 @@ Implement the above through the appropriate classes, defining the data members n
 
   A school building is created.
   Students and teachers are created. \
-  The following process is repeated until either all students are in their classrooms or no other student can enter:
+  The following process is repeated until either all students are in their classrooms or no other student can enter: \
   (a) Students enter the school building in random order. \
   (b) Randomly decide whether teachers are placed in their classrooms—if positive, the selection of teachers for placement is random again. \
   Print the school building.
