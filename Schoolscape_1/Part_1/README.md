@@ -11,7 +11,7 @@ Run:
 
     ./sim1
 
-The purpose of this exercise is to practice in construction-destruction functions and class composition. This is an implementation in C++ of a simulation of the morning arrival of students in a school building and their entry into classrooms.
+This is an implementation in C++ of a simulation of the morning arrival of students in a school building and their entry into classrooms.
 
 The school building consists of three floors, a courtyard, and a staircase. Each floor has six classrooms and a corridor. Each classroom can accommodate up to C class students and one teacher. If the teacher is in the classroom, no other student can enter. Each student is characterized by their name, class details (floor number and class number), and an indication of their location (courtyard, staircase, corridor, classroom, outside the school building). The teacher's details include their name, class details, and an indication of whether they are inside the classroom.
 
